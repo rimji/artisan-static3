@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <strong><a href="https://www.dirtkill.com/">MYYRO</a></strong><br>
+            <strong><a href="https://www.myyro.com/">MYYRO</a></strong><br>
             </nav>
         </header>
 
@@ -32,8 +32,8 @@
 
         <footer>
              <small><center>
-             <a href="https://www.dirtkill.com/about/">About</a> &nbsp &nbsp <a href="https://www.dirtkill.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
-             &copy; 2021 MYYRO CLEAN
+             <a href="https://www.myyro.com/about/">About</a> &nbsp &nbsp <a href="https://www.myyro.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
+             &copy; 2021 MYYRO
              </center></small>
         </footer>
     </section>
