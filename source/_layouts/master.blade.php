@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             <a href="https://www.dirtkill.com/about/">About</a> &nbsp &nbsp <a href="https://www.dirtkill.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirtkill.official/">Instagram</a><br>
+             <a href="https://www.dirtkill.com/about/">About</a> &nbsp &nbsp <a href="https://www.dirtkill.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
              &copy; 2021
              </center></small>
         </footer>
