@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.myyro.com/about/">About</a> &nbsp &nbsp <a href="https://www.myyro.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
-             &copy; 2021 MYYRO
+             &copy; 2021
              </center></small>
         </footer>
     </section>
