@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.myyro.com/">MYYRO</a><br>
+            <small><a href="https://www.myyro.com/">MYYRO</a></small><br>
             </nav>
         </header>
 
