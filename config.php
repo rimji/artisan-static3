@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://myyro.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'MYYRO',
+        'description' => 'MYYRO',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'MYYRO',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
