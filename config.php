@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://myyro.com',
+    'baseUrl' => 'https://www.myyro.com',
     'site' => [
         'title' => 'MYYRO',
         'description' => 'MYYRO',
