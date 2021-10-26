@@ -20,13 +20,7 @@
     <section>
         <header>
             <nav>
-                <strong>{{ $page->site->title }}</strong><br>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/posts">Posts</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                </ul>
+            <strong><a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/129444878-06aa2a2a-b03c-4c54-b544-60cefb073e90.png" alt="Rimji" width="100" height="52"></a></strong><br>
             </nav>
         </header>
 
@@ -37,17 +31,15 @@
         </article>
 
         <footer>
-            <small>
-                &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
-            </small>
+             <small><center>
+             <a href="https://www.rimji.com/about/">About</a> &nbsp &nbsp <a href="https://www.rimji.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/rimji.official/">Instagram</a><br>
+             &copy; 2021
+             </center></small>
         </footer>
     </section>
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
-    @includeWhen($page->production && $page->services->analytics, '_partials.analytics')
+    @includeWhen($page->production, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
 </body>
 </html>
