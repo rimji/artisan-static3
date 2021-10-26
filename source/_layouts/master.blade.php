@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <strong><a href="https://www.dirtkill.com/"><img src="https://user-images.githubusercontent.com/88181976/129444878-06aa2a2a-b03c-4c54-b544-60cefb073e90.png" alt="Rimji" width="100" height="52"></a></strong><br>
+            <strong><a href="https://www.dirtkill.com/">DIRTKILL</a></strong><br>
             </nav>
         </header>
 
