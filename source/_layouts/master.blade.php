@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <strong><a href="https://www.dirtkill.com/">DIRTKILL</a></strong><br>
+            <strong><a href="https://www.dirtkill.com/">MYYRO</a></strong><br>
             </nav>
         </header>
 
