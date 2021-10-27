@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://myyro.com',
     'site' => [
-        'title' => 'MYYRO',
-        'description' => 'MYYRO',
+        'title' => 'DIRTKILL',
+        'description' => 'DIRTKILL',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'MYYRO',
+        'name' => 'DIRTKILL',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
