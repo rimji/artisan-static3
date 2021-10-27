@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.myyro.com/">DIRTKILL</a><br>
+            <a href="https://www.dirtkill.com/">DIRTKILL</a><br>
             </nav>
         </header>
 
@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             <a href="https://www.myyro.com/about/">About</a> &nbsp &nbsp <a href="https://www.myyro.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
+             <a href="https://www.dirtkill.com/about/">About</a> &nbsp &nbsp <a href="https://www.dirtkill.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
              &copy; 2021
              </center></small>
         </footer>
