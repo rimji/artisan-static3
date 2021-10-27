@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://myyro.com',
+    'baseUrl' => 'https://dirtkill.com',
     'site' => [
         'title' => 'DIRTKILL',
         'description' => 'DIRTKILL',
