@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   contact@myyro.com
+   contact@dirtkill.com
    </center> </small>
 @endsection
