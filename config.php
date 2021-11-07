@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://dirtkill.com',
+    'baseUrl' => 'https://huubuu.com',
     'site' => [
-        'title' => 'DIRTKILL',
-        'description' => 'DIRTKILL',
+        'title' => 'HUUBUU',
+        'description' => 'HUUBUU',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'DIRTKILL',
+        'name' => 'HUUBUU',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
