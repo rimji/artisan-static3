@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.huubuu.com/"><img src="https://user-images.githubusercontent.com/88181976/140713613-bfdc9117-13b4-4cae-807c-8b05d709596c.png" alt="huubuu" width="150" height="150"></a><br>
+            <a href="https://www.huubuu.com/"><img src="https://user-images.githubusercontent.com/88181976/140713613-bfdc9117-13b4-4cae-807c-8b05d709596c.png" alt="huubuu" width="70" height="70"></a><br>
             </nav>
         </header>
 
