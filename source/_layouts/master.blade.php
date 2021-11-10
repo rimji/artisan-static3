@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.pamori.com/"><img src="https://user-images.githubusercontent.com/88181976/140713613-bfdc9117-13b4-4cae-807c-8b05d709596c.png" alt="Pamori" width="80" height="80"></a><br>
+            <a href="https://www.pamori.com/"><img src="https://user-images.githubusercontent.com/88181976/141151464-baa3c907-8c98-42f6-9061-d171b46c3994.png" alt="Pamori" width="100" height="50"></a><br>
             </nav>
         </header>
 
@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             <a href="https://www.pamori.com/about/">About</a> &nbsp &nbsp <a href="https://www.pamori.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/dirt.kill/">Instagram</a><br>
+             <a href="https://www.pamori.com/about/">About</a> &nbsp &nbsp <a href="https://www.pamori.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pamori.official/">Instagram</a><br>
              &copy; 2021 パモリ
              </center></small>
         </footer>
