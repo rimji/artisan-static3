@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://huubuu.com',
+    'baseUrl' => 'https://pamori.com',
     'site' => [
-        'title' => 'HUUBUU',
-        'description' => 'HUUBUU',
+        'title' => 'Pamori',
+        'description' => 'Pamori',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'HUUBUU',
+        'name' => 'Pamori',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
