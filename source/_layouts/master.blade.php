@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.pamori.com/about/">About</a> &nbsp &nbsp <a href="https://www.pamori.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pamori.official/">Instagram</a><br>
-             &copy; 2021 パモリ ラーニング
+             &copy; 2021 パモリ
              </center></small>
         </footer>
     </section>
