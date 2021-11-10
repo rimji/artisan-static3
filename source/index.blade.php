@@ -3,7 +3,7 @@
 @section('content')
     <center>
     <small> 
-
+    PLAY+LEARN
     </small>
     </center>
 @endsection
