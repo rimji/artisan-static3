@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.cataplay.com/about/">About</a> &nbsp &nbsp <a href="https://www.cataplay.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cataplay.official/">Instagram</a><br>
-             &copy; 2021 カタプレイ
+             &copy; 2021 カタプレイ ラーニング
              </center></small>
         </footer>
     </section>
