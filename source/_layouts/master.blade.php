@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.pamori.com/"><img src="https://user-images.githubusercontent.com/88181976/141151464-baa3c907-8c98-42f6-9061-d171b46c3994.png" alt="Pamori" width="100" height="50"></a><br>
+            <a href="https://www.cataplay.com/"><img src="https://user-images.githubusercontent.com/88181976/141151464-baa3c907-8c98-42f6-9061-d171b46c3994.png" alt="Cataplay" width="100" height="50"></a><br>
             </nav>
         </header>
 
@@ -32,8 +32,8 @@
 
         <footer>
              <small><center>
-             <a href="https://www.pamori.com/about/">About</a> &nbsp &nbsp <a href="https://www.pamori.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/pamori.official/">Instagram</a><br>
-             &copy; 2021 パモリ
+             <a href="https://www.cataplay.com/about/">About</a> &nbsp &nbsp <a href="https://www.cataplay.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cataplay.official/">Instagram</a><br>
+             &copy; 2021 カタプレイ
              </center></small>
         </footer>
     </section>
