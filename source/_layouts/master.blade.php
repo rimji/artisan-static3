@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.cataplay.com/"><img src="https://user-images.githubusercontent.com/88181976/141307382-b96eb251-ed67-4d19-94dc-9c7f6c66c86c.png" alt="Cataplay" width="100" height="50"></a><br>
+            <a href="https://www.cataplay.com/"><img src="https://user-images.githubusercontent.com/88181976/141319761-fa59cba0-f447-4c87-aad3-7bcd22eeb290.png" alt="Cataplay" width="100" height="50"></a><br>
             </nav>
         </header>
 
