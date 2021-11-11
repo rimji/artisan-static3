@@ -3,7 +3,7 @@
 @section('content')
     <center>
     <small> 
-    <img src="https://user-images.githubusercontent.com/88181976/141238091-e776e32c-ff98-46f2-9880-cb96f1f7eea5.png" alt="Pamori" width="30" height="30"><br>
+    <img src="https://user-images.githubusercontent.com/88181976/141238091-e776e32c-ff98-46f2-9880-cb96f1f7eea5.png" alt="Pamori" width="35" height="35"><br>
     PLAY+LEARN
     </small>
     </center>
