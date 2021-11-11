@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://pamori.com',
+    'baseUrl' => 'https://cataplay.com',
     'site' => [
-        'title' => 'Pamori',
-        'description' => 'Pamori',
+        'title' => 'Cataplay',
+        'description' => 'Cataplay',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Pamori',
+        'name' => 'Cataplay',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
