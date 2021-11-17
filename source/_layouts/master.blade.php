@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.cataplay.com/"><img src="https://user-images.githubusercontent.com/88181976/141319761-fa59cba0-f447-4c87-aad3-7bcd22eeb290.png" alt="Cataplay" width="100" height="50"></a><br>
+            <a href="https://www.cataplay.com/"><img src="https://user-images.githubusercontent.com/88181976/142228778-ab51b573-99cb-464d-91b6-eb0f163bf68f.png" alt="Bmosa" width="100" height="50"></a><br>
             </nav>
         </header>
 
@@ -32,8 +32,8 @@
 
         <footer>
              <small><center>
-             <a href="https://www.cataplay.com/about/">About</a> &nbsp &nbsp <a href="https://www.cataplay.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cataplay.official/">Instagram</a><br>
-             &copy; 2021 カタプレイ ラーニング
+             <a href="https://www.bmosa.com/about/">About</a> &nbsp &nbsp <a href="https://www.bmosa.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cataplay.official/">Instagram</a><br>
+             &copy; 2021
              </center></small>
         </footer>
     </section>
