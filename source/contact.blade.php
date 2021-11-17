@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   hello@cataplay.com
+   hello@bmosa.com
    </center> </small>
 @endsection
