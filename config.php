@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://bmosa.com',
     'site' => [
-        'title' => 'BMOSA',
+        'title' => 'B'MOSA',
         'description' => 'BMOSA',
         'image' => 'default-share.png',
     ],
