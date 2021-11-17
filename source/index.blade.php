@@ -3,7 +3,7 @@
 @section('content')
     <center>
     <small> 
-    Underwear
+    UNDERWEAR
     </small>
     </center>
 @endsection
