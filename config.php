@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://bmosa.com',
     'site' => [
         'title' => 'B'MOSA',
-        'description' => 'B'MOSA',
+        'description' => 'BMOSA',
         'image' => 'default-share.png',
     ],
     'owner' => [
