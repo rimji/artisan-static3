@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://cataplay.com',
+    'baseUrl' => 'https://bmosa.com',
     'site' => [
-        'title' => 'Cataplay',
-        'description' => 'Cataplay',
+        'title' => 'BMOSA',
+        'description' => 'BMOSA',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Cataplay',
+        'name' => 'BMOSA',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
