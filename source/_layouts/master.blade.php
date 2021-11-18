@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.bmosa.com/"><img src="https://user-images.githubusercontent.com/88181976/142228778-ab51b573-99cb-464d-91b6-eb0f163bf68f.png" alt="Bmosa" width="65" height="30"></a><br>
+            <a href="https://www.bmosa.com/"><img src="https://user-images.githubusercontent.com/88181976/142351705-79d54cf2-0ceb-4f7f-bf1d-8ace4d017735.png" alt="Bmosa" width="65" height="30"></a><br>
             </nav>
         </header>
 
