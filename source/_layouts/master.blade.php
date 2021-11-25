@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.bmosa.com/about/">About</a> &nbsp &nbsp <a href="https://www.bmosa.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cataplay.official/">Instagram</a><br>
-             &copy; 2021 BMOSA
+             &copy; 2021 GOKKS
              </center></small>
         </footer>
     </section>
