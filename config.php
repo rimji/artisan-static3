@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://bmosa.com',
+    'baseUrl' => 'https://gokks.com',
     'site' => [
-        'title' => 'BMOSA',
-        'description' => 'BMOSA',
+        'title' => 'GOKKS',
+        'description' => 'GOKKS',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'BMOSA',
+        'name' => 'GOKKS',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
