@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.bmosa.com/"><img src="https://user-images.githubusercontent.com/88181976/143383059-97729081-44e2-4d21-b0b9-4047a0ce8c6a.png" alt="Bmosa" width="60" height="60"></a><br>
+            <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143383059-97729081-44e2-4d21-b0b9-4047a0ce8c6a.png" alt="GOKKS" width="60" height="60"></a><br>
             </nav>
         </header>
 
@@ -32,7 +32,7 @@
 
         <footer>
              <small><center>
-             <a href="https://www.bmosa.com/about/">About</a> &nbsp &nbsp <a href="https://www.bmosa.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/cataplay.official/">Instagram</a><br>
+             <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
              &copy; 2021 GOKKS
              </center></small>
         </footer>
