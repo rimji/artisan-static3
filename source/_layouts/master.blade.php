@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-             &copy; 2021 GOKKS PRODUCTS
+             &copy; 2021 GOKKS
              </center></small>
         </footer>
     </section>
