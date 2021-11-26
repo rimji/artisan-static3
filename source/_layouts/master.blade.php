@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143605801-829f5089-70d8-4c88-819f-c8b27bb62844.png" alt="GOKKS" width="65" height="35"></a><br>
+            <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143605801-829f5089-70d8-4c88-819f-c8b27bb62844.png" alt="GOKKS" width="65" height="25"></a><br>
             </nav>
         </header>
 
@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-             &copy; 2021 GOKKS
+             &copy; 2021 GOKKS PRODUCTS
              </center></small>
         </footer>
     </section>
