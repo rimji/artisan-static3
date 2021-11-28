@@ -20,8 +20,8 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770537-bb16c15e-d1f8-4558-b571-42d88c4cefd3.png" alt="GOKKS" width="75" height="75"></a>
-            </nav>
+           <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770961-4d736bb1-1896-4311-9e31-5ee095e81317.png" alt="GOKKS" width="70" height="70"></a>
+           </nav>
         </header>
 
         <article>
@@ -33,9 +33,9 @@
         <footer>
              <small><center>
              <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-             
-             <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770961-4d736bb1-1896-4311-9e31-5ee095e81317.png" alt="GOKKS" width="50" height="50"></a>
-             </center></small>
+             <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770537-bb16c15e-d1f8-4558-b571-42d88c4cefd3.png" alt="GOKKS" width="50" height="50"></a>
+      
+               </center></small>
         </footer>
     </section>
 
