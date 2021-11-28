@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-            <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770616-722b9468-089e-45f6-81c5-847459344a79.png" alt="GOKKS" width="150" height="75"></a><br>
+            <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770706-0e6ce0ac-5ec7-4e6d-840f-570b8806cd48.png" alt="GOKKS" width="150" height="75"></a><br>
             </nav>
         </header>
 
