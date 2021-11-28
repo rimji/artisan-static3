@@ -33,8 +33,8 @@
         <footer>
              <small><center>
              <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-             &copy; 2021
-             <br><a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770961-4d736bb1-1896-4311-9e31-5ee095e81317.png" alt="GOKKS" width="50" height="50"></a>
+             
+             <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770961-4d736bb1-1896-4311-9e31-5ee095e81317.png" alt="GOKKS" width="50" height="50"></a>
              </center></small>
         </footer>
     </section>
