@@ -33,9 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-             <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770706-0e6ce0ac-5ec7-4e6d-840f-570b8806cd48.png" alt="GOKKS" width="50" height="50"></a>
-      
-               </center></small>
+          </center></small>
         </footer>
     </section>
 
