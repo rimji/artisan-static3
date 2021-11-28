@@ -33,7 +33,8 @@
         <footer>
              <small><center>
              <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-          </center></small>
+             copy; 2021
+             </center></small>
         </footer>
     </section>
 
