@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.rimji.com"><b>Dr. Koll's</b></a>
+            <a href="https://www.drkolls.com"><b>Dr. Koll's</b></a>
             </nav>
         </header>
 
