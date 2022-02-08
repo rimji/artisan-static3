@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.drkolls.com"><b>Dr.KOLL's</b></a>
+            <a href="https://www.drkolls.com"><b>Dr. KOLL's</b></a>
             </nav>
         </header>
 
@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.drkolls.com/contact/"><u>Contact us</u></a>
              <br>
-             &copy; DR. KOLL'S
+             &copy; Dr. KOLL's
         </center></small>
         </footer>
     </section>
