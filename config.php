@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://gokks.com',
+    'baseUrl' => 'https://drkolls.com',
     'site' => [
-        'title' => 'GOKKS',
-        'description' => 'GOKKS',
+        'title' => 'DR. KOLL'S',
+        'description' => 'Dr. Koll's',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'GOKKS',
+        'name' => 'Dr. Koll's',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
