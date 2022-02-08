@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.drkolls.com"><b>Dr. KOLL'S</b></a>
+            <a href="https://www.drkolls.com"><b>Dr.KOLL's</b></a>
             </nav>
         </header>
 
