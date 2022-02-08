@@ -19,9 +19,9 @@
 <body>
     <section>
         <header>
-            <nav>
-           <a href="https://www.gokks.com/"><img src="https://user-images.githubusercontent.com/88181976/143770706-0e6ce0ac-5ec7-4e6d-840f-570b8806cd48.png" alt="GOKKS" width="75" height="75"></a>
-           </nav>
+            <nav> 
+            <a href="https://www.rimji.com"><b>Dr. Koll's</b></a>
+            </nav>
         </header>
 
         <article>
@@ -31,10 +31,15 @@
         </article>
 
         <footer>
-             <small><center>
-             <a href="https://www.gokks.com/about/">About</a> &nbsp &nbsp <a href="https://www.gokks.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/gokks.official/">Instagram</a><br>
-             &copy; 2021
-             </center></small>
+         <small><center>
+             <a href="https://www.facebook.com/drkolls"><u>Facebook</u></a>
+             &nbsp&nbsp
+             <a href="https://www.instagram.com/drkolls"><u>Instagram</u></a>
+             &nbsp&nbsp
+             <a href="https://www.drkolls.com/contact/"><u>Contact us</u></a>
+             <br>
+             &copy; RIMJI Co.
+        </center></small>
         </footer>
     </section>
 
