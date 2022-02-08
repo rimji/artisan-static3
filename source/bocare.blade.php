@@ -4,7 +4,7 @@
 
 @section('content')
    <small><center>
-       <a href="https://www.rimji.com/bodyoil/"><u>Body Oil</u></a> Care Instructions<br><br>
+       <a href="https://www.drkolls.com/bodyoil/"><u>Body Oil</u></a> Care Instructions<br><br>
   <p align="justify">
     This oil is suitable for everyday use and is recommended for all skin types.<br><br> 
     Note: This oil is preservative free. Store it away from moisture or any kind of water contamination. Secure the cap tightly after each use. Use this oil within 6 months from opening.<br><br>
