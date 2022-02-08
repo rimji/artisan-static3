@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.drkolls.com/contact/"><u>Contact us</u></a>
              <br>
-             &copy; Dr. Koll's
+             &copy; Dr.Koll's
         </center></small>
         </footer>
     </section>
