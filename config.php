@@ -9,7 +9,7 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Dr. Koll &apos; s',
+        'name' => 'Dr. Koll'&apos;'s',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
