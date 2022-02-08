@@ -1,9 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-    <center>
-    <small> 
-    
-    </small>
-    </center>
+  <small><center>
+    <a href="https://www.drkolls.com/bodyoil/"><u>Body Oil</u></a>
+ </center> </small>
 @endsection
