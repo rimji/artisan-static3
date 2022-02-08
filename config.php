@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://drkolls.com',
     'site' => [
-        'title' => 'DR. KOLL&apos;S',
-        'description' => 'Dr. Koll&apos;s',
+        'title' => 'DR. KOLL &apos; S',
+        'description' => 'Dr. Koll &apos; s',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Dr. Koll&apos;s',
+        'name' => 'Dr. Koll &apos; s',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
