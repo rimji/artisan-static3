@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://drkolls.com',
     'site' => [
-        'title' => 'DR. KOLL &apos; S',
-        'description' => 'Dr. Koll &apos; s',
+        'title' => 'DR. KOLL'S'&apos;'S',
+        'description' => 'Dr. Koll'&apos;'s',
         'image' => 'default-share.png',
     ],
     'owner' => [
