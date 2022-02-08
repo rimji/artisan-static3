@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.drkolls.com/contact/"><u>Contact us</u></a>
              <br>
-             &copy; RIMJI Co.
+             &copy; Dr. Koll's
         </center></small>
         </footer>
     </section>
