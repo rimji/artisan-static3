@@ -32,11 +32,11 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/drkolls"><u>Facebook</u></a>
+             <a href="https://www.facebook.com/drkolls">Facebook</a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/drkolls"><u>Instagram</u></a>
+             <a href="https://www.instagram.com/drkolls">Instagram</a>
              &nbsp&nbsp
-             <a href="https://www.drkolls.com/contact/"><u>Contact us</u></a>
+             <a href="https://www.drkolls.com/contact/">Contact us</a>
              <br>
              &copy; Dr.Koll's
         </center></small>
