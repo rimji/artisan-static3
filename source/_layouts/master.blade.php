@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-             <a href="https://www.cheenos.com/"><img src="https://user-images.githubusercontent.com/88181976/155092628-83cfbac0-4f1c-4c79-8a8d-0805e6a63a16.png" alt="Cheenos" width="100" height="35"></a>
+             <a href="https://www.cheenos.com/"><img src="https://user-images.githubusercontent.com/88181976/155092628-83cfbac0-4f1c-4c79-8a8d-0805e6a63a16.png" alt="Cheenos" width="120" height="35"></a>
             </nav>
         </header>
 
