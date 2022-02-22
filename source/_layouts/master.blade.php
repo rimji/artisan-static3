@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-             <a href="https://www.cheenos.com/"><img src="https://user-images.githubusercontent.com/88181976/155092628-83cfbac0-4f1c-4c79-8a8d-0805e6a63a16.png" alt="Cheenos" width="120" height="35"></a>
+             <a href="https://www.drkolls.com/"><img src="https://user-images.githubusercontent.com/88181976/153023350-3a33cf06-3523-435c-9096-ab84b9151bb7.png" alt="Dr.Koll's" width="100" height="35"></a>
             </nav>
         </header>
 
@@ -32,13 +32,13 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/cheenosindia">Facebook</a>
+             <a href="https://www.facebook.com/drkolls">Facebook</a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/cheenosindia">Instagram</a>
+             <a href="https://www.instagram.com/drkolls">Instagram</a>
              &nbsp&nbsp
-             <a href="https://www.cheenos.com/contact/">Contact us</a>
+             <a href="https://www.drkolls.com/contact/">Contact us</a>
              <br>
-             &copy; Cheenos
+             &copy; Dr.Koll's
         </center></small>
         </footer>
     </section>
