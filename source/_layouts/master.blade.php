@@ -36,7 +36,7 @@
              &nbsp&nbsp
              <a href="https://www.instagram.com/cheenosindia">Instagram</a>
              &nbsp&nbsp
-             <a href="https://www.drkolls.com/contact/">Contact us</a>
+             <a href="https://www.cheenos.com/contact/">Contact us</a>
              <br>
              &copy; Cheenos
         </center></small>
