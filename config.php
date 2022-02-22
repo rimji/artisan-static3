@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://drkolls.com',
+    'baseUrl' => 'https://cheenos.com',
     'site' => [
-        'title' => 'Dr.Koll\'s',
-        'description' => 'Dr.Koll\'s',
+        'title' => 'Cheenos',
+        'description' => 'Cheenos',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Dr.Koll\'s',
+        'name' => 'Cheenos',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
