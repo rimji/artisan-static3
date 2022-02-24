@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-             <a href="https://www.drkolls.com/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="40" height="40"></a>
+             <a href="https://www.drkolls.com/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="60" height="60"></a>
             </nav>
         </header>
 
