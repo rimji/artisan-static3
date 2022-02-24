@@ -32,8 +32,6 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/drkolls">Facebook</a>
-             &nbsp&nbsp
              <a href="https://www.instagram.com/miomio.in">Instagram</a>
              &nbsp&nbsp
              <a href="https://www.drkolls.com/contact/">Contact us</a>
