@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://drkolls.com',
+    'baseUrl' => 'https://miomio.in',
     'site' => [
         'title' => 'MIOMIO',
-        'description' => 'Dr.Koll\'s',
+        'description' => 'miomio.in',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Dr.Koll\'s',
+        'name' => 'MioMio',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
