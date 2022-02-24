@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.drkolls.com/contact/">Contact us</a>
              <br>
-             &copy; MIOMIO
+             &copy; MioMio
         </center></small>
         </footer>
     </section>
