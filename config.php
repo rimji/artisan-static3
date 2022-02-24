@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://drkolls.com',
     'site' => [
-        'title' => 'Dr.Koll\'s',
+        'title' => 'miomio',
         'description' => 'Dr.Koll\'s',
         'image' => 'default-share.png',
     ],
