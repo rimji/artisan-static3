@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-             <a href="https://www.drkolls.com/"><img src="https://user-images.githubusercontent.com/88181976/153023350-3a33cf06-3523-435c-9096-ab84b9151bb7.png" alt="Dr.Koll's" width="100" height="35"></a>
+             <a href="https://www.drkolls.com/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="40" height="40"></a>
             </nav>
         </header>
 
@@ -34,11 +34,11 @@
          <small><center>
              <a href="https://www.facebook.com/drkolls">Facebook</a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/drkolls">Instagram</a>
+             <a href="https://www.instagram.com/miomio.in">Instagram</a>
              &nbsp&nbsp
              <a href="https://www.drkolls.com/contact/">Contact us</a>
              <br>
-             &copy; Dr.Koll's
+             &copy; MIOMIO
         </center></small>
         </footer>
     </section>
