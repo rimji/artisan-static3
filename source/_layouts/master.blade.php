@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-             <a href="https://www.drkolls.com/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="55" height="55"></a>
+             <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="55" height="55"></a>
             </nav>
         </header>
 
@@ -34,7 +34,7 @@
          <small><center>
              <a href="https://www.instagram.com/miomio.in">Instagram</a>
              &nbsp&nbsp
-             <a href="https://www.drkolls.com/contact/">Contact us</a>
+             <a href="https://www.miomio.in/contact/">Contact us</a>
              <br>
              &copy; MIOMIO
         </center></small>
