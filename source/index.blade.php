@@ -2,6 +2,6 @@
 
 @section('content')
   <small><center>
-    @miomio.in
+   <a href="https://www.drkolls.com/">@miomio.in</a>
   </center> </small>
 @endsection
