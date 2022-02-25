@@ -32,7 +32,7 @@
 
         <footer>
          <small><center>
-             <a href="https://www.instagram.com/miomio.in"><img src="https://user-images.githubusercontent.com/88181976/155653982-58fd5986-1011-45f6-965a-161b6b77753b.png" alt="MIOMIO" width="20" height="20"></a>
+             <a href="https://www.instagram.com/miomio.in">Instagram</a>
              &nbsp&nbsp
              <a href="https://www.miomio.in/contact/">Contact us</a>
              <br>
