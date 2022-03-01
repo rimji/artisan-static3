@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/156140400-399bfe46-5746-426c-9e17-692a59642c3a.png" alt="MIOMIO" width="90" height="35"></a>
+              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/156140400-399bfe46-5746-426c-9e17-692a59642c3a.png" alt="Bangle Masters" width="80" height="35"></a>
           </nav>
         </header>
 
@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.miomio.in/contact/">Contact us</a>
              <br>
-             &copy; BANGLE MASTERS
+             &copy; Bangle Masters
         </center></small>
         </footer>
     </section>
