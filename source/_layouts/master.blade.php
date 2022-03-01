@@ -32,11 +32,11 @@
 
         <footer>
          <small><center>
-             <a href="https://www.instagram.com/miomio.in">Instagram</a>
+             <a href="https://www.instagram.com/banglemasters">Instagram</a>
              &nbsp&nbsp
              <a href="https://www.miomio.in/contact/">Contact us</a>
              <br>
-             &copy; MIOMIO
+             &copy; Bangle Masters
         </center></small>
         </footer>
     </section>
