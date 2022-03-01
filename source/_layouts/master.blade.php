@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-              <a href="https://www.banglemasters.com/"><img src="https://user-images.githubusercontent.com/88181976/156140400-399bfe46-5746-426c-9e17-692a59642c3a.png" alt="Bangle Masters" width="80" height="35"></a>
+              <a href="https://www.banglemasters.com/"><img src="https://user-images.githubusercontent.com/88181976/156176600-4f87bde4-b7d9-4c65-96ab-0fb3e35ae99b.png" alt="Bangle Masters" width="80" height="35"></a>
           </nav>
         </header>
 
