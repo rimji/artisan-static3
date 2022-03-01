@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="45" height="45"></a>
+              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/156140400-399bfe46-5746-426c-9e17-692a59642c3a.png" alt="MIOMIO" width="60" height="35"></a>
           </nav>
         </header>
 
