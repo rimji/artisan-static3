@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/156140400-399bfe46-5746-426c-9e17-692a59642c3a.png" alt="MIOMIO" width="80" height="35"></a>
+              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/156140400-399bfe46-5746-426c-9e17-692a59642c3a.png" alt="MIOMIO" width="90" height="35"></a>
           </nav>
         </header>
 
@@ -32,6 +32,8 @@
 
         <footer>
          <small><center>
+             <a href="https://www.facebook.com/banglemasters">Facebook</a>
+             &nbsp&nbsp
              <a href="https://www.instagram.com/banglemasters">Instagram</a>
              &nbsp&nbsp
              <a href="https://www.miomio.in/contact/">Contact us</a>
