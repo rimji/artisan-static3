@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://banglemasters.com,
+    'baseUrl' => 'https://banglemasters.com',
     'site' => [
         'title' => 'Bangle Masters',
         'description' => 'banglemasters',
