@@ -2,10 +2,10 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://miomio.in',
+    'baseUrl' => 'https://banglemasters.com,
     'site' => [
-        'title' => 'MIOMIO',
-        'description' => 'miomio.in',
+        'title' => 'Bangle Masters',
+        'description' => 'banglemasters',
         'image' => 'default-share.png',
     ],
     'owner' => [
