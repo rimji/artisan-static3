@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   contact@miomio.in
+   contact@banglemasters.com
    </center> </small>
 @endsection
