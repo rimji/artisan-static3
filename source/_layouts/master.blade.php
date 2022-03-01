@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.miomio.in/contact/">Contact us</a>
              <br>
-             &copy; Bangle Masters
+             &copy; BANGLE MASTERS
         </center></small>
         </footer>
     </section>
