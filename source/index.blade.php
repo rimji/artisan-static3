@@ -2,6 +2,6 @@
 
 @section('content')
   <small><center>
-   <a href="https://www.instagram.com/miomio.in/">@banglemasters</a>
+   <a href="https://www.instagram.com/banglemasters/">@banglemasters</a>
   </center> </small>
 @endsection
