@@ -2,7 +2,7 @@
 
 @section('content')
   <small><center>
-  <img src="https://user-images.githubusercontent.com/88181976/156503593-8a2c2c60-97c8-421f-8bcf-fc4cd90eb62c.png" alt="Bangle Masters" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/88181976/156504518-10028f54-f585-4dfb-89be-b3d7204019b4.png" alt="Bangle Masters" width="100" height="100">
   <br>
   <a href="https://www.instagram.com/banglemasters">@banglemasters</a>
   </center></small>
